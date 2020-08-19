@@ -12,6 +12,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/donnisnoni95/v-logo/master/dist/v-logo.svg?sanitize=true"></code>
 
 <br />
 
@@ -24,6 +25,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=alfex4936.github.io&title_color=fff&icon_color=4c71f2&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+<a href="https://github.com/Alfex4936/V-algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=V-algorithms&title_color=fff&icon_color=4c71f2&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 <a href="https://github.com/MIRAGE-Dev/frameworks_base_slim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MIRAGE-Dev&repo=frameworks_base_slim&title_color=fff&icon_color=4c71f2&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -32,4 +37,4 @@
 <br />
 
 <h1>Github 언어 사용 비율</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark&hide=lua,dart&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfex4936&layout=compact&theme=dark&hide=lua,dart&hide_title=true" />
