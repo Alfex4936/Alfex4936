@@ -2,11 +2,11 @@
 ![age](https://img.shields.io/badge/Age-99-blue) ![from](https://img.shields.io/badge/from-korea-red)
 ### Hello! 👋
 
-- 💻 Python dev
+- 💻 Python, V dev
 - ⚡ 이것저것 시도하기
 - 🌐 포트폴리오 사이트: [github.io](https://alfex4936.github.io/) 
-- 🏫 대학생: [alfex4936@gmail.com](mailto:alfex4936@gmail.com) 
-- 📧 공부 중: 
+- 📧 대학생: [alfex4936@gmail.com](mailto:alfex4936@gmail.com) 
+- 🏫 공부 중: 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
