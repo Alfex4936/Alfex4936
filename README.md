@@ -25,6 +25,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=alfex4936.github.io&theme=radical&cache_seconds=86400" />
 </a>
 
+<a href="https://github.com/Alfex4936/python-bigO-calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=python-bigO-calculator&theme=radical&cache_seconds=86400" />
+</a>
+
 <a href="https://github.com/Alfex4936/V-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=V-algorithms&theme=radical&cache_seconds=86400" />
 </a>
@@ -32,7 +36,6 @@
 <a href="https://github.com/MIRAGE-Dev/frameworks_base_slim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MIRAGE-Dev&repo=frameworks_base_slim&theme=radical&cache_seconds=86400" />
 </a>
-
 
 <br />
 
