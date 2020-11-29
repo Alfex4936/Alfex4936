@@ -33,11 +33,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=V-algorithms&theme=radical&cache_seconds=86400" />
 </a>
 
+<a href="https://github.com/Alfex4936/kafka-Studies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=kafka-Studies&theme=radical&cache_seconds=86400" />
+</a>
+
 <a href="https://github.com/MIRAGE-Dev/frameworks_base_slim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MIRAGE-Dev&repo=frameworks_base_slim&theme=radical&cache_seconds=86400" />
 </a>
 
 <br />
 
+<!--
 <h1>Github 언어 사용 비율</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfex4936&layout=compact&theme=dark&hide=lua,dart,assembly&hide_title=true" />
+-->
