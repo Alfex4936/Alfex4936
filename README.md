@@ -2,17 +2,14 @@
 ![age](https://img.shields.io/badge/Age-99-blue) ![from](https://img.shields.io/badge/from-korea-red)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlfex4936%2FAlfex4936&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%7C&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hello! 👋
 
-- 💻 Python, Go, TypeScript, Julia 연습 중
+- 💻 Python, Go, Java
 - ⚡ 이것저것 시도하기
-- 🌐 Github Gist 사이트: [gist.github.com](https://gist.github.com/Alfex4936) 
-- 📧 AJ 대학생: [alfex4936@gmail.com](mailto:alfex4936@gmail.com) 
+- 🌐 Github Gist 사이트: [gist.github.com](https://gist.github.com/Alfex4936)
 - 🏫 공부 중: 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <br />
 
@@ -27,6 +24,14 @@
 
 <a href="https://github.com/Alfex4936/python-bigO-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=python-bigO-calculator&theme=radical&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Alfex4936/KakaoChatBot-Golang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=KakaoChatBot-Golang&theme=radical&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Alfex4936/kakao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=kakao&theme=radical&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Alfex4936/Kafka-Local-CLI">
