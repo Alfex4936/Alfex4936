@@ -1,15 +1,17 @@
 
 ![age](https://img.shields.io/badge/Age-99-blue) ![from](https://img.shields.io/badge/from-korea-red)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlfex4936%2FAlfex4936&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%7C&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hello! 👋
+### Hello! 👋 *Since 2012*
 
-- 💻 Python, Go, Java
-- ⚡ 이것저것 시도하기
-- 🌐 Github Gist 사이트: [gist.github.com](https://gist.github.com/Alfex4936)
-- 🏫 공부 중: 
+- 💻 Studying: Python, Go, Java, C, Kafka, AWS, Docker, Rust...
+- 🌐 Personal blog: [tistory.com](https://choiseokwon.tistory.com/)
+- 🏫 Ajou University sophomore: 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <br />
 
