@@ -1,6 +1,9 @@
+![Hello](https://github.com/Alfex4936/Alfex4936/blob/master/header.gif)
 
-![age](https://img.shields.io/badge/Age-99-blue) ![from](https://img.shields.io/badge/from-korea-red)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlfex4936%2FAlfex4936&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%7C&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hello! 👋 *Since 2012*
+
+I'm a student in South Korea, I love various programming stuff and calisthenics.
 
 - 🌐 Personal blog: [tistory.com](https://choiseokwon.tistory.com/)
 - 💻 : Python, Go, Java, C, Kafka, AWS, Docker, Rust...
@@ -19,7 +22,7 @@
 
 <br />
 
-<h1>Repo</h1>
+<h1>Works</h1>
 <a href="https://github.com/Alfex4936/alfex4936.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=alfex4936.github.io&theme=radical&cache_seconds=86400" />
 </a>
