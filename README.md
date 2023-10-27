@@ -9,53 +9,40 @@
 I'm a student in South Korea, I love various programming stuff and calisthenics.
 
 - 🌐 Personal blog: [tistory.com](https://choiseokwon.tistory.com/)
-- 💻 : Python, Go, Java, C, Kafka, AWS, Docker, Rust, Svelte, DApp...
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-<br />
-
-![stats](https://github-readme-stats.vercel.app/api/?username=alfex4936&show_owner=false&show_icons=true&theme=radical&hide_border=true&hide_rank=false&count_private=true&include_all_commits=true)
 
 <br />
 
 <h1>Works</h1>
-<a href="https://github.com/Alfex4936/alfex4936.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=alfex4936.github.io&theme=radical&cache_seconds=86400" />
+<a href="https://github.com/Alfex4936/beautyMinder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=beautyMinder&theme=dracula&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/Alfex4936/python-bigO-calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=python-bigO-calculator&theme=radical&cache_seconds=86400" />
+<a href="https://github.com/Alfex4936/Ajou-Library-GPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=Ajou-Library-GPT&theme=dracula&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/Alfex4936/KakaoChatBot-Golang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=KakaoChatBot-Golang&theme=radical&cache_seconds=86400" />
+<a href="https://github.com/Alfex4936/Rust-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=Rust-Server&theme=dracula&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/Alfex4936/kakao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=kakao&theme=radical&cache_seconds=86400" />
+<a href="https://github.com/Alfex4936/hi-rust.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=hi-rust.github.io&theme=dracula&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/Alfex4936/Kafka-Local-CLI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=Kafka-Local-CLI&theme=radical&cache_seconds=86400" />
+<a href="https://github.com/Alfex4936/DDD-Choose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=DDD-Choose&theme=dracula&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/Alfex4936/V-algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=V-algorithms&theme=radical&cache_seconds=86400" />
+<a href="https://github.com/Alfex4936/Bard-rs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=Bard-rs&theme=dracula&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Alfex4936/kafka-Studies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=kafka-Studies&theme=radical&cache_seconds=86400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alfex4936&repo=kafka-Studies&theme=dracula&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/MIRAGE-Dev/frameworks_base_slim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MIRAGE-Dev&repo=frameworks_base_slim&theme=radical&cache_seconds=86400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MIRAGE-Dev&repo=frameworks_base_slim&theme=dracula&cache_seconds=86400" />
 </a>
 
 <br />
