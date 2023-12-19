@@ -9,6 +9,7 @@
 I'm a student in South Korea, I love various programming stuff and calisthenics.
 
 - 🌐 Personal blog: [tistory.com](https://choiseokwon.tistory.com/)
+- 💼 Portfolio: [Alfex4936](https://alfex4936.github.io)
 
 <br />
 
