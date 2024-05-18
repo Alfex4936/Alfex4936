@@ -9,7 +9,7 @@
 I'm in South Korea, I love various programming stuffs and calisthenics.
 
 - 🌐 Personal blog: [tistory.com](https://choiseokwon.tistory.com/)
-- 💼 Portfolio: [Alfex4936](https://alfex4936.github.io)
+- 💼 Portfolio: [Alfex4936](https://alfex4936.github.io/resume-eng)
 - ✍ My Rust Tutorial: [hi-rust.github.io](https://hi-rust.github.io/)
 
 <br />
