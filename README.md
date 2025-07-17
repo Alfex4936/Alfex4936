@@ -1,6 +1,8 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seok%20Won&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Github&descAlignY=51&descAlign=62)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seok%20Won&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=58A6FF&center=true&width=500&height=50&lines=Calisthenics+Lover;Backend+Efficiency+Fan;Java+%7C+Golang+%7C+Rust" />
 
 </div>
 
