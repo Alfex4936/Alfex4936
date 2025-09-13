@@ -15,7 +15,7 @@ I'm in South Korea, I love various programming stuffs and calisthenics.
 - 🌐 Personal blog: [tistory.com](https://choiseokwon.tistory.com/)
 - 💼 Portfolio: [Alfex4936](https://alfex4936.github.io/)
 - ✍ My Rust Tutorial: [hi-rust.github.io](https://hi-rust.github.io/)
-- 📕 [Redis Listpack visualization](https://alfex4936.github.io/redis/redis-listpack) | [Redis ACL simulation](https://alfex4936.github.io/redis/redis-acl) | [Redis MULTI/EXEC simulation](https://alfex4936.github.io/redis/redis-multi) | [Redis RDB simulation](https://alfex4936.github.io/redis/redis-rdb) | [Redis STREAM simulation](https://alfex4936.github.io/redis/redis-stream) | [Redis PUBSUB simulation](https://alfex4936.github.io/redis/redis-pubsub)
+- 📕 [Redis Listpack visualization](https://alfex4936.github.io/redis/redis-listpack) | [Redis ACL simulation](https://alfex4936.github.io/redis/redis-acl) | [Redis MULTI/EXEC simulation](https://alfex4936.github.io/redis/redis-multi) | [Redis RDB simulation](https://alfex4936.github.io/redis/redis-rdb) | [Redis STREAM simulation](https://alfex4936.github.io/redis/redis-stream) | [Redis PUBSUB simulation](https://alfex4936.github.io/redis/redis-pubsub) | [Redis Cluster FAILOVER simulation](https://alfex4936.github.io/redis/redis-cluster-failover)
 
 <br />
 
